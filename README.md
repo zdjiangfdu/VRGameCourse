@@ -1,2 +1,2 @@
 # VRCourse
-VR Course Material for Students
+VR Game Course Material for Students
